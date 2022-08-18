@@ -1,0 +1,21 @@
+h1,h4{
+    color: purple;
+    border: 2px double seagreen;
+    padding: 30px;
+    
+    
+}
+p{
+    color: slategray;
+    padding: 20px;
+    background-color: antiquewhite;
+}
+body{
+    background-color: peachpuff;
+}
+h2{
+    color: purple;
+    border: 2px double sienna;
+    padding: 40px;
+    padding-left: 100px;
+}
